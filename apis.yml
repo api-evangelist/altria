@@ -1,11 +1,63 @@
 aid: altria
-url: 
-  https://raw.githubusercontent.com/api-evangelist/altria/refs/heads/main/apis.yml
-modified: '2026-03-21'
+url: https://raw.githubusercontent.com/api-evangelist/altria/refs/heads/main/apis.yml
+name: Altria
+tags:
+  - Consumer Goods
+  - Tobacco
+  - Nicotine
+  - Reduced Risk Products
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+description: >-
+  Altria Group is a consumer goods company and the parent of Philip Morris USA, US Smokeless
+  Tobacco Company, and other subsidiaries. The company is transitioning its portfolio toward
+  potentially reduced-risk products including oral nicotine pouches and e-vapor devices,
+  while managing its traditional tobacco product portfolio.
+created: '2024-01-01'
+modified: '2026-04-19'
+specificationVersion: '0.19'
 apis: []
 common:
-  - type: Website
-    url: https://www.altria.com
-description: >-
-  Altria is moving beyond smoking, leading the way in moving adult smokers away from
-  cigarettes by taking action to transition millions to potentially less harmful choices.
+  - url: https://www.altria.com/
+    type: Website
+  - url: https://www.altria.com/contact-us
+    type: Support
+  - url: https://www.altria.com/newsroom
+    type: News
+  - type: Features
+    data:
+      - name: Trade Partner Portal
+        description: >-
+          Retail and wholesale trade partner portals for ordering, inventory
+          management, and promotional program participation.
+      - name: Age Verification Systems
+        description: >-
+          Digital age verification integrations for direct-to-consumer and
+          retail tobacco product sales compliance.
+      - name: Retail Data Exchange
+        description: >-
+          EDI and retail data exchange with major tobacco retailers for
+          point-of-sale data, inventory management, and promotional tracking.
+  - type: UseCases
+    data:
+      - name: Retail Trade Integration
+        description: >-
+          Wholesale and retail partner connectivity for tobacco product ordering,
+          inventory management, and promotional program administration.
+      - name: Compliance Reporting
+        description: >-
+          Regulatory compliance reporting integrations with state and federal
+          systems for tobacco product sales tracking and excise tax reporting.
+  - type: Integrations
+    data:
+      - name: EDI Networks
+        description: >-
+          Electronic data interchange with major retailers and wholesalers for
+          purchase orders, invoices, and advance ship notices.
+      - name: Retail Point-of-Sale
+        description: >-
+          POS system integration for tobacco product scanning, age verification,
+          and promotional discount application at retail.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

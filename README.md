@@ -1,33 +1,24 @@
 # Altria (altria)
-Altria is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Altria.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/altria/refs/heads/main/apis.yml)
+Altria Group is a consumer goods company and the parent of Philip Morris USA, US Smokeless Tobacco Company, and other subsidiaries. The company is transitioning its portfolio toward potentially reduced-risk products including oral nicotine pouches and e-vapor devices, while managing its traditional tobacco product portfolio.
 
-## Scope
+**Website:** [https://www.altria.com/](https://www.altria.com/)
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## Status
 
-## Tags:
+Altria does not offer a public developer API portal. This repository tracks known trade partner integration capabilities for retail and wholesale partners.
 
- - Fortune 500
+## Capabilities
 
-## Timestamps
+- **Trade Partner Portal** — Retail and wholesale ordering, inventory management, and promotional programs
+- **Age Verification Systems** — Digital age verification for compliant direct-to-consumer tobacco sales
+- **Retail Data Exchange** — EDI integration with major retailers for POS data and inventory management
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+## Integrations
 
-## APIs
+- EDI Networks — Retail and wholesale purchase orders and invoices
+- Retail Point-of-Sale — POS system integration for tobacco product compliance
 
-No public APIs have been documented yet. Contributions welcome.
+## Maintainer
 
-## Common Properties
-
-- [Website](https://www.altria.com)
-
-## Maintainers
-
-**FN:** API Evangelist
-
-**Email:** info@apievangelist.com
+Kin Lane — kin@apievangelist.com
