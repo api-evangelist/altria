@@ -1,7 +1,9 @@
 ---
 title: 'Altria''s AI Strategy: Analysis of Dominance in Tobacco'
 url: https://www.klover.ai/altria-ai-strategy-analysis-of-dominance-in-tobacco/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Altria Group" press release artificial intelligence'
 position: 2
 source: serpapi-google

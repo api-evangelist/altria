@@ -1,7 +1,9 @@
 ---
 title: Innovate With Us
 url: https://www.altria.com/en/innovate-with-us
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Altria Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Altria Reports 2026 First-Quarter Results; Reaffirms Full-Year ...
 url: https://investor.altria.com/press-releases/news-details/2026/Altria-Reports-2026-First-Quarter-Results-Reaffirms-Full-Year-Guidance/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Altria Group" press release artificial intelligence'
 position: 1
 source: serpapi-google

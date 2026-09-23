@@ -1,7 +1,9 @@
 ---
 title: Altria Group, Inc. Press Release, dated
 url: https://www.sec.gov/Archives/edgar/data/764180/000076418024000056/exhibit991erq12024.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Altria Group" press release artificial intelligence'
 position: 4
 source: serpapi-google
